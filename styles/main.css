@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+main{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+form{
+    width: 100%;
+    max-width: 300px;
+}
+.first-part{
+    display: flex;
+    justify-content: space-between;
+}
+
+form{
+    max-width: 400px;
+    margin-top: 2rem;
+    margin: auto;
+    margin-top: 2rem;
+    border: 2px solid rgb(59, 131, 179);
+    background-color: rgba(29, 173, 173, 0.5);
+    padding: 1rem ;
+}
+
+
+span{
+    
+    height: 80px;
+    width: 360px;
+    display: block;
+    background-color: #fff;
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    font-size: 40px;
+}
+
+.model1{
+    height: 60px;
+    width: 70px;
+    margin: 5px;
+    
+}
+
+.model1, .model2, .zero{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
